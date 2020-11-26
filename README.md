@@ -1,4 +1,4 @@
-[![My newsletter](https://img.shields.io/badge/💌%20Join%20my%20newsletter--_.svg?style=flat-square)](https://joshbuchea.com/newsletter)
+[![My newsletter](https://img.shields.io/badge/💌%20Get%20my%20newsletter-Free-_.svg?style=flat-square)](https://joshbuchea.com/newsletter)
 [![GitHub](https://img.shields.io/github/followers/joshbuchea?label=Followers&logo=GitHub&style=flat-square)](https://github.com/joshbuchea)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/joshbuchea?label=Sponsors&logo=GitHub&style=flat-square)](https://github.com/sponsors/joshbuchea)
 [![Twitter](https://img.shields.io/twitter/follow/joshbuchea?label=Twitter&logo=twitter&style=flat-square)](https://twitter.com/joshbuchea)
