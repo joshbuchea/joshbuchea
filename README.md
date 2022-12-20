@@ -1,7 +1,5 @@
 [![My newsletter](https://img.shields.io/badge/💌%20Newsletter-Free-blue.svg?style=flat-square)](https://joshbuchea.com/newsletter)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/joshbuchea?label=Sponsors&logo=GitHub&style=flat-square)](https://github.com/sponsors/joshbuchea)
 [![GitHub](https://img.shields.io/github/followers/joshbuchea?label=Followers&logo=GitHub&style=flat-square)](https://github.com/joshbuchea)
-[![Twitter](https://img.shields.io/twitter/follow/joshbuchea?label=Twitter&logo=twitter&style=flat-square&color=blue)](https://twitter.com/joshbuchea)
 [![YouTube](https://img.shields.io/badge/YouTube-7-red.svg?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCqBtfD5kK8DArDROLudU2Lw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-500+-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joshbuchea/)
 [![App Store](https://img.shields.io/badge/App_Store-4-blue.svg?style=flat-square&logo=apple)](https://apps.apple.com/developer/joshua-buchea/id469778668)
